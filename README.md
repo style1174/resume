@@ -1,6 +1,6 @@
 # 联系方式
 
-* 手机：18687156220
+* 手机：null
 * Email：admin@yikongyin.com
 * QQ：819512157
 
