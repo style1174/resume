@@ -1,7 +1,7 @@
 # 联系方式
 
 * 手机：null
-* Email：admin@yikongyin.com
+* Email：k@tiedatu.com
 * QQ：819512157
 
 # 个人信息
