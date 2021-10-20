@@ -6,10 +6,10 @@
 
 # 个人信息
 
-* sober1174/男/1995
+* sober1322/男/1995
 * 砖科/软件技术/青岛科技大学
 * 工作年限：1 年
-* 博客：[http://blog.yikongyin.com](http://blog.yikongyin.com)
+* 博客：[http://blog.tiedatu.com](http://blog.tiedat.com)u
 * GitHub：[https://github.com/style1174](https://github.com/style1174)
 * 期望职位：Java web后台开发工程师
 
